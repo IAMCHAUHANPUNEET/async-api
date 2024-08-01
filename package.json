@@ -1,0 +1,43 @@
+{
+  "name": "async-apicall",
+  "version": "1.0.0",
+  "description": "An npm package eases api call and eliminates the async function need for calling apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAMCHAUHANPUNEET/async-api.git"
+  },
+  "keywords": [
+    "fetch",
+    "api",
+    "data",
+    "http",
+    "async",
+    "error",
+    "handling",
+    "promise",
+    "fetch",
+    "data",
+    "API",
+    "request",
+    "JavaScript",
+    "ES6",
+    "fetch",
+    "API",
+    "error",
+    "logging",
+    "JSON",
+    "response",
+    "web",
+    "development"
+  ],
+  "author": "Puneet Chauhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IAMCHAUHANPUNEET/async-api/issues"
+  },
+  "homepage": "https://github.com/IAMCHAUHANPUNEET/async-api#readme"
+}
